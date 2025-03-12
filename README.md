@@ -162,7 +162,7 @@ The above job runs every 2 hours from 9am-2am the next day. “?” is a placeho
 <img src='.assets/sns07.png'/>
 6. Verify that email/sms notifications are sent to the subscribed users.
 
-<img src='.assets/snsAlert.png'/>
+<img src='.assets/snsAlert.jpg'/>
 7. Inspect cloudwatch for the lambda function log streams.
 <img src='.assets/sns08.png'/>
 
